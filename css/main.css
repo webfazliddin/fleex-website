@@ -1,0 +1,173 @@
+.main-header{
+  width: 100%;
+  height: 800px;
+  background: url(../img/header.png);
+
+}
+.btn-outline-light{
+  width: 76px;
+  height: 40px;
+}
+.navbar{
+  padding-top: 120px !important;
+}
+
+.navbar a{
+  text-decoration: none;
+  font-size: 32px;
+  color: #FFF9EE;
+  left: 19px;
+}
+.header-content{
+  margin-top: 122px;
+}
+.title-header{
+  color: #FFFFFF;
+}
+.p-light{
+  color: #FFF9EE;
+  font-size: 22px;
+}
+.header-bottom{
+  padding-top: 20px;
+  width: 1200px;
+  height: 74px;
+}
+.header-bottom_items{
+  display: flex;
+  margin-left: 298px;
+}
+.item{
+  margin-left: 90px;
+}
+.piture{
+  width: 100%;
+  height: 709px;
+  background: rgba(143, 76, 23, 0.08);
+}
+.picture-title{
+  margin-top: 194px;
+  font-size: 43px;
+}
+.picture-text{
+  margin-top: 31px;
+  
+  color: rgba(26, 8, 0, 0.7);
+}
+.imgg{
+  margin-top: 105px;
+}
+.three{
+  width: 100%;
+  height: 829px;
+}
+.three-page{
+  margin-top: 84px !important;
+  padding-left: 59px !important;
+}
+.four{
+  height: 682px;
+  background: rgba(143, 76, 23, 0.08);
+  min-width: 1440px;
+}
+.four-img > img{
+  margin-top: 91px;
+  width: 100%;
+}
+.five{
+  width: 100%;
+  height: 709px;
+  background: rgba(143, 76, 23, 0.08);
+}
+.five-title{
+  text-align: center;
+  width: 390px;
+  height: 200px;
+  background: #EEE5DC;
+  border-bottom-right-radius: 8px;
+}
+.five-title1{
+  width: 390px;
+  height: 60px;
+  background: #EEE5DC;
+  text-align: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.five-title2{
+  display: flex;
+  width: 200px;
+  height: 60px;
+  background: #E3ACA1;
+  border-radius: 6px 6px 0 6px;
+  margin-left: 190px;
+  color: #FFFFFF;
+
+}
+.five-title3{
+  align-self: center;
+  margin-left: 30px;
+  display: inline;
+}
+.img5{
+  width: 50px;
+  margin-left: 400px;
+}
+
+.six{
+  width: 100%;
+  height: 749px;
+
+}
+.six-title{
+  margin-top: 110px;
+  font-size: 50px;
+}
+.col-six{
+  margin-top: 103px !important;
+}
+.rasm{
+  width: 100%;
+}
+.seven{
+    height: 518px;
+    background: url(../img/Rectangle\ \(10\).png);
+    margin-bottom: 300px !important;
+}
+.logo-img1{
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  margin-left: 12px;
+  margin-top: 20px;
+  font-family: bold;
+}
+.logos{
+  margin-top: 129px;
+}
+.seven-text{
+  color: #fff;
+  margin-top: 57px;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0.42px;
+}
+.text-seven1{
+  color: rgba(255, 255, 255, 0.6);
+  margin-top: 29px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
